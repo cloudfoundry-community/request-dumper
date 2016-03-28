@@ -1,5 +1,5 @@
 {
 	"ImportPath": "github.com/cloudfoundry-community/request-dumper",
-	"GoVersion": "go1.6",
+	"GoVersion": "go1.5",
 	"Deps": []
 }
