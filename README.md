@@ -1,4 +1,4 @@
-### Summary
+### request-dumper
 
 `request-dumper` is an app designed to run in CloudFoundry (and potentially other PaaSes),
 which dumps out a summary of the request it received. This is useful for ensuring that apps
